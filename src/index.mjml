@@ -38,7 +38,7 @@
       <mj-column>
         <mj-image
           src="../images/logo.jpg"
-          alt="QRコード"
+          alt="logo"
           align="center"
         ></mj-image>
       </mj-column>
@@ -61,7 +61,7 @@
       <mj-column>
         <mj-text color="#dcdcdc" font-size="15px"  align="center">
         <!-- 残りの日数を入力する -->
-          ついに全大学合同卒業式イベント "Grads Night 2024" まで残り1日となりました!
+          3/25(月)の全大学合同卒業式イベント”Grads Night 2024” 開催日までカウントダウン始まりました🎉
         </mj-text>
         <mj-text color="#dcdcdc" font-size="15px" align="center">
           当日こちらの【QRコード】を入り口にてご提示ください。
