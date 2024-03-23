@@ -1,0 +1,168 @@
+<mjml>
+  <mj-head>
+    <mj-title>Grads Night 2024 案内メール</mj-title>
+    <mj-preview>Grads Night 2024へのご登録ありがとうございます!</mj-preview>
+  </mj-head>
+  <mj-body background-color="#000000" border="1px solid #e6b422">
+    <!-- イベント画像 -->
+
+
+<!-- 全体を描こう -->
+<!-- <mj-section background-color="#000000" border="1px solid #e6b422"> -->
+
+
+
+
+    <!-- 感謝の文章 -->
+
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-text
+          color="#e6b422"
+          font-weight="bold"
+          align="center"
+          font-size="22px"
+          line-height="10px"
+        >
+          Grads Night 2024 イベント案内メール
+        </mj-text>
+        <!-- 名前の部分だけ入れ込んで欲しい -->
+        <mj-text color="#dcdcdc" font-size="16px" align="center">
+          {name}さんGrads Night 2024へのご登録ありがとうございます。
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+        <!-- ヒーロー画像 -->
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-image
+          src="../images/logo.jpg"
+          alt="QRコード"
+          align="center"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- 整理券番号とQRコード -->
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-image
+          src="../images/sample.png"
+          alt="QRコード"
+          width="300px"
+          align="center"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- イベントの概要 -->
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-text color="#dcdcdc" font-size="15px"  align="center">
+        <!-- 残りの日数を入力する -->
+          ついに全大学合同卒業式イベント "Grads Night 2024" まで残り1日となりました!
+        </mj-text>
+        <mj-text color="#dcdcdc" font-size="15px" align="center">
+          当日こちらの【QRコード】を入り口にてご提示ください。
+        </mj-text>
+        <mj-text color="#dcdcdc" font-size="12px" align="center">
+          (スムーズにご入場頂けますよう、お並びの際にスタッフが事前確認する場合がございます)
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+        </mj-text>
+        <mj-text color="#dcdcdc" font-size="20px" align="center">
+          ✨イベントの詳細🎓
+        </mj-text>
+                  <mj-text  color="#dcdcdc" font-size="18px" align="center" font-weight="normal" padding-bottom="10px">
+                  日付: 3/25(Mon)
+                 </mj-text>
+                  <mj-text  color="#dcdcdc" font-size="18px" align="center" font-weight="normal" padding-bottom="10px">
+                  時間: 23:00 start 5:00end
+                 </mj-text>
+                  <mj-text  color="#dcdcdc" font-size="18px" align="center" font-weight="normal" padding-bottom="10px">
+                  場所: BAIA Shibuya
+                 </mj-text>
+                  <mj-text  color="#dcdcdc" font-size="18px" align="center" font-weight="normal" padding-bottom="10px">
+                  東京都渋谷区宇田川町１６−１７
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                 </mj-text>
+        <mj-text color="#dcdcdc" font-size="15px" padding-bottom="30px" align="center" line-height="26px">
+          当日の特典情報や入場方法、よくある質問について、こちらのアカウントから随時発信しております。アカウントフォローして情報をお見逃しないように！👇
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- 横線、公式サイトとインスタのボタン -->
+    <mj-section background-color="#000000" border-bottom="1px solid #CCCCCC">
+      <mj-column>
+        <mj-button
+          background-color="#000000"
+          align="center"
+          color="#e6b422"
+           border="1px solid #e6b422"
+          font-size="17px"
+          font-weight="bold"
+          href="https://www.instagram.com/grads_night_2024/"
+          width="300px"
+        >
+          公式Instagram
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+
+
+    <!-- イベントの日程、場所、マップ -->
+      </mj-section>
+      <mj-section background-color="#000000" padding="40px 15px 0 15px">
+        <mj-column width="100%">
+          <mj-text color="#dcdcdc" font-size="16px" padding-bottom="0">
+            また、当日4人以上でのご来場で割引対象となります。ご友人等でまだ記入されてない方がいたら、是非お声がけください!
+¥5,000→¥4,000/2D付き
+          </mj-text>
+                  <mj-text color="#dcdcdc" font-size="20px" align="center">
+          【注意事項】
+        </mj-text>
+          <mj-text color="#dcdcdc" font-size="16px">
+            IDまたは生年月日が記載された公的な書類、またはそれに準ずる書類を持参してください。
+            ・何かご質問があれば、お気軽にお知らせください
+
+            混雑が予想されますので時間の余裕を持って、お早めのご来場をお勧め致します！
+            では人生１度きりの卒業式祝い”Grads Night 2024”でお会いしましょう！
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#000000" padding-left="15px"  padding-right="15px">
+        <mj-column width="50%">
+          <mj-text color="#dcdcdc" font-size="12px" text-transform="uppercase" font-weight="bold" padding-bottom="10px">
+            場所
+          </mj-text>
+          <mj-text color="#dcdcdc" font-size="14px" padding-top="0">
+            〒150-0042
+            <br />
+             東京都渋谷区宇田川町１６−１７
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text color="#dcdcdc" font-size="12px" text-transform="uppercase" font-weight="bold" padding-bottom="10px">
+            日程
+          </mj-text>
+          <mj-text color="#dcdcdc" font-size="14px" padding-top="0">
+            2024年 3月 25日 月曜日
+            <br />
+            23:00 ~ 05:00
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+
+  </mj-body>
+</mjml>
