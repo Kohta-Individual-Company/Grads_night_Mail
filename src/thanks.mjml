@@ -1,0 +1,151 @@
+<mjml>
+  <mj-head>
+    <mj-title>Grads Night 2024 Thanks Mail</mj-title>
+    <mj-preview>Grads Night 2024へのご参加、ありがとうございました</mj-preview>
+  </mj-head>
+  <mj-body background-color="#000000" border="1px solid #e6b422">
+    <!-- イベント画像 -->
+
+
+<!-- 全体を描こう -->
+<!-- <mj-section background-color="#000000" border="1px solid #e6b422"> -->
+
+
+
+
+    <!-- 感謝の文章 -->
+
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-text
+          color="#e6b422"
+          font-weight="bold"
+          align="center"
+          font-size="22px"
+          line-height="10px"
+        >
+          Grads Night 2024 Thanks Mail
+        </mj-text>
+        <!-- 名前の部分だけ入れ込んで欲しい -->
+        <mj-text color="#dcdcdc" font-size="16px" align="center">
+          {name}さんGrads Night 2024への参加ありがとうございました。
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+        <!-- ヒーロー画像 -->
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-image
+          src="../images/logo.jpg"
+          alt="logo"
+          align="center"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- 整理券番号とQRコード -->
+    <!-- <mj-section background-color="#000000">
+      <mj-column>
+        <mj-image
+          src="../images/sample.png"
+          alt="QRコード"
+          width="300px"
+          align="center"
+        ></mj-image>
+      </mj-column>
+    </mj-section> -->
+
+    <!-- イベントの概要 -->
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-text color="#dcdcdc" font-size="15px" line-height="22px"   align="center">
+        <!-- 参加者の名前を入力する -->
+          親愛なる{name}様、先日は「Grads Night 2024」にご参加いただき、誠にありがとうございました。
+        </mj-text>
+        <mj-text color="#dcdcdc" font-size="15px" line-height="25px" align="center">
+          皆様のおかげで、この特別な夜を忘れられないものにすることができました。このイベントが皆様にとって、学生生活の終わりと新しい章の始まりを祝う記念すべき機会となったことを願っています。
+        </mj-text>
+        <mj-text color="#dcdcdc" font-size="15px" line-height="25px" align="center">
+          私たちは、様々な大学から集まった皆様が一堂に会し、経験を共有し、新たな繋がりを築けたことを大変嬉しく思います。
+今回のイベントで撮影した写真や動画は近日中にInstagram上で共有する予定ですので、どうぞお楽しみに。また、皆様の感想やフィードバックも大歓迎です。
+        </mj-text>
+        <mj-text color="#dcdcdc" font-size="15px" line-height="25px" align="center">
+          次回のイベントをさらに良いものにするために、ぜひお聞かせください。皆様の未来に幸多からんことを心から願っております。どうぞこれからもご健康で、そして輝かしい成就がありますように。
+        </mj-text>
+        <mj-text color="#dcdcdc" font-size="17px" line-height="25px" align="center">
+          Luten
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <!-- 横線、公式サイトとインスタのボタン -->
+    <mj-section background-color="#000000" border-bottom="1px solid #CCCCCC">
+      <mj-column>
+        <mj-button
+          background-color="#000000"
+          align="center"
+          color="#e6b422"
+           border="1px solid #e6b422"
+          font-size="18px"
+          font-weight="bold"
+          href="https://www.instagram.com/grads_night_2024/"
+          width="300px"
+        >
+          公式Instagram
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+
+
+    <!-- イベントの日程、場所、マップ -->
+      </mj-section>
+      <mj-section background-color="#000000" padding="40px 15px 0 15px">
+        <mj-column width="100%">
+
+                <mj-image
+          src="../images/baia.jpg"
+          alt="QRコード"
+          width="400px"
+          align="center"
+          padding-bottom="20px"
+        ></mj-image>
+          <mj-text color="#dcdcdc" font-size="16px" line-height="26px" padding-bottom="0">
+            
+            期間限定で先日の会場BAIA SHIBUYAの通常営業にて、割引入場可能にさせて頂けることになりましたので
+            ご気軽にInstagram までご連絡ください✨
+
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#000000" padding-left="15px"  padding-right="15px">
+        <mj-column width="50%">
+          <mj-text color="#dcdcdc" font-size="12px" text-transform="uppercase" font-weight="bold" padding-bottom="10px">
+            場所
+          </mj-text>
+          <mj-text color="#dcdcdc" font-size="14px" padding-top="0">
+            〒150-0042
+            <br />
+             東京都渋谷区宇田川町１６−１７
+             <br />
+            BAIA Shibuya
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text color="#dcdcdc" font-size="12px" text-transform="uppercase" font-weight="bold" padding-bottom="10px">
+            日程
+          </mj-text>
+          <mj-text color="#dcdcdc" font-size="14px" padding-top="0">
+            2024年 3月 25日 月曜日
+            <br />
+            23:00 ~ 05:00
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+
+  </mj-body>
+</mjml>
